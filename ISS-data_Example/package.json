@@ -1,0 +1,14 @@
+{
+  "name": "iss_raw_data",
+  "version": "1.0.0",
+  "description": "shows the basics of parsing the raw data from the ISS and printing  it in JSON",
+  "main": "data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derek Runberg",
+  "license": "ISC",
+  "dependencies": {
+    "iss": "0.0.2"
+  }
+}

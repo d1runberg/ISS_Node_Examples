@@ -1,0 +1,14 @@
+{
+  "name": "timestamp_example",
+  "version": "1.0.0",
+  "description": "Example program that demonstrates parsing a timestamp from the ISS node module",
+  "main": "timeStamp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derek Runberg",
+  "license": "ISC",
+  "dependencies": {
+    "iss": "0.0.2"
+  }
+}

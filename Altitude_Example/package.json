@@ -1,0 +1,14 @@
+{
+  "name": "altitude_examples",
+  "version": "1.0.0",
+  "description": "Example program that demonstrates parsing the altitude of the ISS from the ISS Module",
+  "main": "altitude.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derek Runberg",
+  "license": "ISC",
+  "dependencies": {
+    "iss": "0.0.2"
+  }
+}

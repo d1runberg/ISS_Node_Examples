@@ -1,0 +1,14 @@
+{
+  "name": "visibility_example",
+  "version": "1.0.0",
+  "description": "parses the visibility of the ISS from the iss module",
+  "main": "visibility.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derek Runberg",
+  "license": "ISC",
+  "dependencies": {
+    "iss": "0.0.2"
+  }
+}
